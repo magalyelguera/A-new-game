@@ -1,0 +1,15 @@
+/*agregando estilos a la página*/
+  h1{
+      color: blueviolet;
+  }
+  .container{
+      display: grid;
+      grid-template-columns: 30% 30% 30% 30%;
+      display: flex;
+      justify-content:space-around;
+  }
+ .button{
+     padding-bottom: 50px;
+     padding-right: 50px;
+     background-color: rgb(151, 86, 204);
+ }
